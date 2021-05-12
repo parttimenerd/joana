@@ -6,7 +6,7 @@ Java Interpreter that measures information flow during execution.
 
 ### Build
 
-Run `ant` build the interpreter and package it in a jar file. The jar will be put in ``joana/dist/``
+Run `ant` to build the interpreter and package it in a jar file. The jar will be put in ``joana/dist/``. Be sure to run the `setup_deps` scripts in the top level directory before. 
 
 ### Usage
 
